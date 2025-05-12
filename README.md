@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Owen
-- 👀 I’m interested in Web development and Machine Learning
+- 👀 I’m a Web developer and Machine Learning engineer
 - 🌱 I’m currently a mid level developer skilled in Python and Django framework
 - 💞️ I’m looking to collaborate on Projects and community works
 - 📫 How to reach me on email: oguguaowen@gmail.com, Linkedin: @Owen Ogugua
